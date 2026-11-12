@@ -58,9 +58,25 @@ Definieren Sie das gewünschte Ergebnis, das Motiv, die räumliche Anordnung, di
 
 Vergleichskontext: Die folgenden Beispiele sind bereitgestellte Demonstrationen und kein von diesem Repository reproduzierter Benchmark. Das Vergleichsmodell für das Gegenlichtporträt wird im Material nicht genannt; beim Uhrenvergleich ist Image 2.5, Sunburst/xhigh angegeben. Der Prompt-Anhang enthält die Runden 1–60, während die Videos als Sequenzen mit 100 Runden vorgestellt werden.
 
+<a id="seedream-55-community-observations"></a>
+
+### Beobachtungen aus der Community und Einschränkungen (12. November 2026)
+
+Diese begrenzte Momentaufnahme umfasst 39 gesammelte X-Beiträge, in denen Seedream 5.5 erwähnt wird. Sie ist weder eine vollständige Erhebung der Plattform noch ein reproduzierter Benchmark. Die folgenden Beobachtungen stammen von den verlinkten Autoren; ihre Medien und Ergebnisse wurden hier nicht unabhängig überprüft.
+
+- **Wiederholte Bearbeitung:** Ein [Bericht über sechs Bearbeitungsrunden an Personen](https://x.com/MaxForAI/status/2120474100737130803) beschreibt weitgehend erhaltene Gesichter und Positionen, jedoch auch Proportionsprobleme und weitere Mängel. Ein [Vergleich mit zehn Bearbeitungsschritten](https://x.com/genel_ai/status/2120424614845395274) berichtet ebenfalls von einer unbeabsichtigten Änderung der Kleidung und einer künstlich wirkenden Person im endgültigen Bild. Ein [Experiment mit 100 Runden](https://x.com/elle_elle_e/status/2120471126291931206) beschreibt einen zunehmenden Detailverlust, auslaufende Konturen und eine Verdunkelung trotz stabiler Bildkomposition. Diese Berichte belegen weder eine verlustfreie Bearbeitung noch eine allgemeine Rangfolge der Modelle.
+
+- **Semantische und räumliche Prüfungen:** Autoren berichten über [Widersprüche zwischen den Aussagen auf einer Ermittlungstafel, der Tabelle zur Anzahl wahrer Aussagen und der Schlussfolgerung](https://x.com/shedntcare_/status/2120525866451296738) sowie über [Spiegelbilder, die nicht zur Szene passen](https://x.com/nrqa__/status/2120522891116920874). Prüfen Sie Schlussfolgerungen und Geometrie getrennt von der visuellen Qualität; dies sind gemeldete Fehlerfälle, keine kontrollierten Vergleichsbenchmarks.
+
+- **Panorama-Workflow:** Ein Autor beschreibt, wie er für Szenenreferenzen [ein Ausgangsbild erzeugt, das Bedienelement „720 Panorama“ verwendet und anschließend die Ansicht dreht und Screenshots erstellt](https://x.com/shedntcare_/status/2120576287177843060). Dies ist ein Workflow über die Produktoberfläche und kein Beleg dafür, dass die eigenständige Seedream-API eine Panoramanavigation bietet.
+
+Beiträge, die Prompts in den Antworten versprechen, liefern in dieser Momentaufnahme keine vollständige Prompt-Anleitung. Aus diesen Berichten lassen sich weder feste Preise noch validierte Exporte mit Transparenz oder Ebenen noch Erfolgsquoten im Produktionseinsatz ableiten.
+
 <a id="news"></a>
 
 ## 📰 Neuigkeiten
+
+- **12. November 2026:** Beobachtungen aus der Community und Einschränkungen mit Quellenzuordnung aus 39 Beiträgen ergänzt. Die bisherigen Anzahlen der Anwendungsfälle und die Medien bleiben unverändert.
 
 - **3. November 2026:** Leitfaden auf Seedream 5.5 aktualisiert, neun Produktbeispiele ergänzt und Medien der archivierten Beispiele wiederhergestellt.
 
@@ -72,6 +88,7 @@ Vergleichskontext: Die folgenden Beispiele sind bereitgestellte Demonstrationen 
 ## 📑 Menü
 
 - [📘 Seedream 5.5-Leitfaden](#seedream-55-guide)
+  - [Beobachtungen aus der Community und Einschränkungen (12. November 2026)](#seedream-55-community-observations)
 - [🧪 Seedream 5.5-Beispiele](#seedream-55-cases)
   - [Seedream 5.5 Case 1: Wiederholte Porträtbearbeitung](#seedream-55-case-1)
   - [Seedream 5.5 Case 2: Einen Ring lokal ersetzen](#seedream-55-case-2)

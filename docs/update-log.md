@@ -1,5 +1,12 @@
 # Update Log
 
+## 2026-11-12
+
+- Added a guide subsection summarizing six attributed community reports from a 39-post source snapshot: repeated-editing limits, semantic/spatial failure reports, and a panorama product workflow.
+- Kept the source claims distinct from independent verification and omitted unsupported pricing, complete prompt recipes, API panorama capabilities, and production-reliability claims.
+- Synchronized the guide subsection, Menu entry, and News item across all 11 README languages.
+- Added no cases or media. Preserved all 9 Seedream 5.5 product cases, 25 Seedream 5.0 Pro product cases, and 39 Seedream 5.0 Pro community cases, including prompts, source links, anchors, and media.
+
 ## 2026-11-03
 
 - Updated the front guide to Seedream 5.5, including task-specific prompt guidance for design, storyboarding, retouching, and interactive editing.

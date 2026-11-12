@@ -58,9 +58,25 @@ Define the deliverable, subject, spatial layout, materials, and lighting. For ed
 
 Comparison context: the examples below are supplied demonstrations, not a benchmark reproduced by this repository. The backlit comparison model is unnamed in the material; the watch comparison identifies Image 2.5, Sunburst/xhigh. The prompt attachment contains rounds 1–60, while the videos are presented as 100-round sequences.
 
+<a id="seedream-55-community-observations"></a>
+
+### Community observations and limits (November 12, 2026)
+
+This limited snapshot covers 39 collected X posts mentioning Seedream 5.5. It is not a platform census or a reproduced benchmark. The observations below are attributed to the linked authors; their media and results have not been independently verified here.
+
+- **Repeated editing:** A [six-round people-editing account](https://x.com/MaxForAI/status/2120474100737130803) reports largely preserved faces and positions, with proportion problems and other flaws. A [ten-edit comparison](https://x.com/genel_ai/status/2120424614845395274) also reports an unintended clothing change and an artificial-looking person in the final image. A [100-round experiment](https://x.com/elle_elle_e/status/2120471126291931206) reports cumulative detail loss, edge bleeding and darkening despite stable composition. These accounts do not establish lossless editing or a general model ranking.
+
+- **Semantic and spatial checks:** Authors report [inconsistencies in a detective board's statements, truth-count table and conclusion](https://x.com/shedntcare_/status/2120525866451296738), and [mirror reflections that do not match the scene](https://x.com/nrqa__/status/2120522891116920874). Check reasoning and geometry separately from visual polish; these are reported failure cases, not controlled comparative benchmarks.
+
+- **Panorama workflow:** One author describes [generating a base image, using a “720 Panorama” control, then rotating and taking screenshots](https://x.com/shedntcare_/status/2120576287177843060) for scene references. That is a product-interface workflow, not evidence that the standalone Seedream API provides panorama navigation.
+
+Posts promising prompts in replies do not supply a complete prompt recipe in this snapshot. Do not infer fixed pricing, validated transparent/layered exports or production success rates from these reports.
+
 <a id="news"></a>
 
 ## 📰 News
+
+- **November 12, 2026:** Added attributed community observations and limitations from 39 source posts. Existing case counts and media remain unchanged.
 
 - **November 3, 2026:** Updated the guide to Seedream 5.5, added nine product cases, and restored the archived case media.
 
@@ -73,6 +89,7 @@ Comparison context: the examples below are supplied demonstrations, not a benchm
 ## 📑 Menu
 
 - [📘 Seedream 5.5 Guide](#seedream-55-guide)
+  - [Community observations and limits (November 12, 2026)](#seedream-55-community-observations)
 - [🧪 Seedream 5.5 Cases](#seedream-55-cases)
   - [Seedream 5.5 Case 1: Repeated portrait edits](#seedream-55-case-1)
   - [Seedream 5.5 Case 2: Replace one ring locally](#seedream-55-case-2)

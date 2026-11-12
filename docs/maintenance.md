@@ -6,6 +6,7 @@
 - The 25 product cases and 39 community cases in the archive describe Seedream 5.0 Pro. Preserve their model labels, source attribution, original dates, prompts, and stable anchors.
 - New product examples use supplied Seedream product materials. Community additions require an original public source and creator attribution.
 - Do not invent missing prompts, test results, release dates, pricing, API behavior, or the name of an undisclosed comparison model.
+- Guide-level community observations may summarize attributed source reports without adding a case. Keep unverified media/results explicit, distinguish product-interface workflows from model/API capabilities, and preserve the existing case inventory unless new case evidence passes review.
 - The watch sequences are presented as 100-round demonstrations. The supplied prompt attachment contains exactly rounds 1–60. These are separate evidence items.
 - Preserve exact source prompt text across languages, including the Chinese first-round watch instruction and attachment.
 

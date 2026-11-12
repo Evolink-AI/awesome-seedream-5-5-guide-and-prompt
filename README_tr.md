@@ -58,9 +58,25 @@ Teslim edilecek çıktıyı, özneyi, mekânsal yerleşimi, malzemeleri ve aydı
 
 Karşılaştırmanın bağlamı: Aşağıdaki örnekler, bu deponun yeniden uyguladığı bir kıyaslama değil, sağlanan gösterimlerdir. Materyalde ters ışıklı portre karşılaştırma modelinin adı verilmez; saat karşılaştırmasında Image 2.5, Sunburst/xhigh belirtilir. İstem eki 1–60. turları içerirken videolar 100 turluk diziler olarak sunulur.
 
+<a id="seedream-55-community-observations"></a>
+
+### Topluluk gözlemleri ve sınırlamalar (12 Kasım 2026)
+
+Bu sınırlı durum özeti, Seedream 5.5’ten bahseden ve derlenmiş 39 X gönderisini kapsar. Platformun tamamını kapsayan bir tarama veya yeniden uygulanarak doğrulanmış bir kıyaslama testi değildir. Aşağıdaki gözlemler, bağlantıları verilen yazarların bildirimleridir; paylaştıkları medya ve sonuçlar burada bağımsız olarak doğrulanmamıştır.
+
+- **Art arda düzenleme:** [İnsan görselleri üzerinde altı turluk düzenleme kaydı](https://x.com/MaxForAI/status/2120474100737130803), yüzlerin ve konumların büyük ölçüde korunduğunu, ancak oran sorunları ve başka kusurlar bulunduğunu bildiriyor. [On düzenlemelik bir karşılaştırma](https://x.com/genel_ai/status/2120424614845395274) da istenmeyen bir kıyafet değişikliği ve son görselde yapay görünen bir kişi bildiriyor. [100 turluk bir deney](https://x.com/elle_elle_e/status/2120471126291931206), kompozisyon sabit kalsa da ayrıntı kaybının, kenarlarda renk taşmasının ve kararmanın biriktiğini bildiriyor. Bu kayıtlar, kayıpsız düzenlemeyi veya modeller için genel bir sıralamayı kanıtlamaz.
+
+- **Anlamsal ve mekânsal kontroller:** Yazarlar, [bir dedektif panosundaki ifadeler, doğru ifade sayısı tablosu ve sonuç arasındaki tutarsızlıkları](https://x.com/shedntcare_/status/2120525866451296738) ve [sahneyle uyuşmayan ayna yansımalarını](https://x.com/nrqa__/status/2120522891116920874) bildiriyor. Akıl yürütme ve geometriyi görsel kusursuzluktan ayrı değerlendirin; bunlar bildirilen başarısızlık örnekleridir, kontrollü karşılaştırmalı kıyaslama testleri değildir.
+
+- **Panorama iş akışı:** Bir yazar, sahne referansları elde etmek için [temel bir görsel oluşturmayı, “720 Panorama” kontrolünü kullanmayı, ardından görünümü döndürüp ekran görüntüleri almayı](https://x.com/shedntcare_/status/2120576287177843060) anlatıyor. Bu, ürün arayüzü üzerinden yürütülen bir iş akışıdır; bağımsız Seedream API’sinin panoramada gezinme özelliği sunduğuna kanıt değildir.
+
+Yanıtlarda istem paylaşmayı vadeden gönderiler, bu durum özetinde eksiksiz bir istem tarifi sunmuyor. Bu bildirimlerden sabit fiyatlandırma, doğrulanmış saydam veya katmanlı dışa aktarma özellikleri ya da üretim ortamındaki başarı oranları çıkarmayın.
+
 <a id="news"></a>
 
 ## 📰 Haberler
+
+- **12 Kasım 2026:** 39 kaynak gönderiden, yazarları belirtilen topluluk gözlemleri ve sınırlamalar eklendi. Mevcut örnek sayıları ve medya değişmedi.
 
 - **3 Kasım 2026:** Rehber Seedream 5.5 için güncellendi, dokuz ürün örneği eklendi ve arşivdeki örneklerin medya dosyaları geri yüklendi.
 
@@ -72,6 +88,7 @@ Karşılaştırmanın bağlamı: Aşağıdaki örnekler, bu deponun yeniden uygu
 ## 📑 Menü
 
 - [📘 Seedream 5.5 Rehberi](#seedream-55-guide)
+  - [Topluluk gözlemleri ve sınırlamalar (12 Kasım 2026)](#seedream-55-community-observations)
 - [🧪 Seedream 5.5 Örnekleri](#seedream-55-cases)
   - [Seedream 5.5 Case 1: Ardışık portre düzenlemeleri](#seedream-55-case-1)
   - [Seedream 5.5 Case 2: Tek bir yüzüğü yerel olarak değiştirme](#seedream-55-case-2)

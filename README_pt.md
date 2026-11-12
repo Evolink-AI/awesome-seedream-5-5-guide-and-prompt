@@ -58,9 +58,25 @@ Defina o resultado, o objeto principal, a organização espacial, os materiais e
 
 Contexto da comparação: os exemplos abaixo são demonstrações fornecidas, e não um benchmark reproduzido por este repositório. O material não identifica o modelo da comparação de contraluz; a comparação do relógio identifica Image 2.5, Sunburst/xhigh. O anexo de prompts contém as rodadas 1–60, enquanto os vídeos são apresentados como sequências de 100 rodadas.
 
+<a id="seedream-55-community-observations"></a>
+
+### Observações da comunidade e limitações (12 de novembro de 2026)
+
+Este recorte limitado abrange 39 publicações coletadas no X que mencionam Seedream 5.5. Não é um censo da plataforma nem um teste comparativo reproduzido. As observações abaixo são atribuídas aos autores dos links; suas mídias e seus resultados não foram verificados aqui de forma independente.
+
+- **Edição repetida:** Um [relato de seis rodadas de edição de pessoas](https://x.com/MaxForAI/status/2120474100737130803) informa que os rostos e as posições foram amplamente preservados, mas com problemas de proporção e outras falhas. Uma [comparação de dez edições](https://x.com/genel_ai/status/2120424614845395274) também relata uma mudança involuntária de roupa e uma pessoa com aparência artificial na imagem final. Um [experimento de 100 rodadas](https://x.com/elle_elle_e/status/2120471126291931206) relata perda cumulativa de detalhes, vazamento nas bordas e escurecimento, apesar da composição estável. Esses relatos não comprovam uma edição sem perdas nem estabelecem uma classificação geral dos modelos.
+
+- **Verificações semânticas e espaciais:** Os autores relatam [inconsistências entre as afirmações de um quadro de investigação, a tabela de contagem de afirmações verdadeiras e a conclusão](https://x.com/shedntcare_/status/2120525866451296738), além de [reflexos em espelhos que não correspondem à cena](https://x.com/nrqa__/status/2120522891116920874). Verifique o raciocínio e a geometria separadamente do acabamento visual; são casos de falha relatados, não testes comparativos controlados.
+
+- **Fluxo de trabalho com panoramas:** Um autor descreve como [gera uma imagem base, usa um controle “720 Panorama” e depois gira a visualização e faz capturas de tela](https://x.com/shedntcare_/status/2120576287177843060) para obter referências de cenas. Esse é um fluxo de trabalho na interface do produto, não uma evidência de que a API independente do Seedream ofereça navegação panorâmica.
+
+As publicações que prometem instruções nas respostas não fornecem uma receita completa de instruções neste recorte. Não deduza preços fixos, exportações com transparência ou camadas validadas, nem taxas de sucesso em produção a partir desses relatos.
+
 <a id="news"></a>
 
 ## 📰 Novidades
+
+- **12 de novembro de 2026:** Foram adicionadas observações da comunidade e limitações, com atribuição aos autores, a partir de 39 publicações de origem. As contagens de casos e as mídias existentes permanecem inalteradas.
 
 - **3 de novembro de 2026:** Guia atualizado para Seedream 5.5, nove casos de produto adicionados e mídia dos casos arquivados restaurada.
 
@@ -72,6 +88,7 @@ Contexto da comparação: os exemplos abaixo são demonstrações fornecidas, e 
 ## 📑 Menu
 
 - [📘 Guia do Seedream 5.5](#seedream-55-guide)
+  - [Observações da comunidade e limitações (12 de novembro de 2026)](#seedream-55-community-observations)
 - [🧪 Casos do Seedream 5.5](#seedream-55-cases)
   - [Seedream 5.5 Case 1: Edições sucessivas de um retrato](#seedream-55-case-1)
   - [Seedream 5.5 Case 2: Substituir apenas um anel localmente](#seedream-55-case-2)
