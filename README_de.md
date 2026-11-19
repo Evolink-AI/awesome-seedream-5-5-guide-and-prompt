@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://evolink.ai?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-seedream-5-pro-guide-and-prompt&amp;utm_content=seedream_5_5_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/restored-2026-11-03/seedream-5-5/banner.svg" width="760" alt="Seedream 5.5 Guide and Cases · EvoLink"></a>
+<a href="https://evolink.ai/seedream-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-seedream-5-5-guide-and-prompt&amp;utm_content=seedream_5_5_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/restored-2026-11-03/seedream-5-5/banner.svg" width="760" alt="Seedream 5.5 Guide and Cases · EvoLink"></a>
 
 # Seedream 5.5: Leitfaden und Beispiele
 
 Ein praktischer Leitfaden zur Bilderzeugung und Bildbearbeitung mit Seedream 5.5, gefolgt von Produktbeispielen und einem nach Version gekennzeichneten Archiv mit Seedream 5.0 Pro-Beispielen.
 
 [![License: MIT](assets/badges/license-mit.svg)](LICENSE)
-[![EvoLink](assets/badges/use-on-evolink.svg)](https://evolink.ai?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedream-5-pro-guide-and-prompt&utm_content=seedream_5_5_badge)
+[![EvoLink](assets/badges/use-on-evolink.svg)](https://evolink.ai/seedream-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedream-5-5-guide-and-prompt&utm_content=seedream_5_5_badge)
 
 [🇺🇸 English](README.md) · [🇪🇸 Español](README_es.md) · [🇵🇹 Português](README_pt.md) · [🇯🇵 日本語](README_ja.md) · [🇰🇷 한국어](README_ko.md) · [🇩🇪 Deutsch](README_de.md) · [🇫🇷 Français](README_fr.md) · [🇹🇷 Türkçe](README_tr.md) · [🇹🇼 繁體中文](README_zh-TW.md) · [🇨🇳 简体中文](README_zh-CN.md) · [🇷🇺 Русский](README_ru.md)
 
