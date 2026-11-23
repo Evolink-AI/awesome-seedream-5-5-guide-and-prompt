@@ -1,6 +1,6 @@
 # Contributing
 
-This repository accepts issues and pull requests that improve source-backed Seedream 5.0 Pro guide content, prompt formatting, media references, link health, and EvoLink conversion-path clarity.
+This repository accepts issues and pull requests that improve source-backed Seedream 5.5 guide content and archived Seedream 5.0 Pro material, prompt formatting, media references, link health, and EvoLink conversion-path clarity.
 
 ## What To Submit
 
@@ -15,6 +15,17 @@ This repository accepts issues and pull requests that improve source-backed Seed
 - Use the README-level official-source policy for current official-source cases unless a future public source policy changes.
 - Keep private source URLs out of public files.
 - Put comparison images on the same row when they are meant to be read together.
+
+## Repository About
+
+Keep the repository About settings aligned with the current Seedream 5.5 guide while retaining the Seedream 5.0 Pro archive.
+
+- **Website:** `https://evolink.ai/seedream-5-5`
+- **Description:**
+
+  > Seedream 5.5 guide, prompt examples, and image editing cases for EvoLink. Includes the Seedream 5.0 Pro archive.
+
+A repository administrator can save these values using the gear beside **About** on the repository home page. Merging README or documentation changes does not update the About settings. After saving, reload the repository home page and verify that both the Website target and description match the values above.
 
 ## Pull Request Checklist
 
