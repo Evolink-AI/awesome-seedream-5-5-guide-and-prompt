@@ -1590,4 +1590,4 @@ Thanks to the community authors whose public posts are cited in this repository:
 
 If an author wants attribution changed or removed, please open an issue with the relevant public post link.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)

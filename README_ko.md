@@ -1606,4 +1606,4 @@ Seedream 5.5 가이드와 제품 예시는 Seedream 제품 자료를 바탕으�
 
 작성자가 attribution 변경 또는 삭제를 원하면 해당 공개 게시물 링크와 함께 issue를 열어 주세요.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)

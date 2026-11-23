@@ -1606,4 +1606,4 @@ Seedream 5.5 指南与产品示例基于 Seedream 产品资料。早期产品示
 
 如果作者希望调整或移除署名，请带上对应公开帖子链接提交 issue。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)

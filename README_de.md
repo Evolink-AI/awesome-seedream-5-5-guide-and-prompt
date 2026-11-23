@@ -1606,4 +1606,4 @@ Danke an die Community-Autorinnen und -Autoren, deren öffentliche Posts in dies
 
 Wenn eine Autorin oder ein Autor eine Änderung oder Entfernung der Zuschreibung wünscht, bitte ein Issue mit dem entsprechenden öffentlichen Post-Link öffnen.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)

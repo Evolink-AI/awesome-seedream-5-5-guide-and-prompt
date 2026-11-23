@@ -1605,4 +1605,4 @@ Seedream 5.5 のガイドと製品作例は、Seedream の製品資料に基づ�
 
 作者が attribution の変更または削除を希望する場合は、該当する公開投稿リンクを添えて issue を開いてください。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)

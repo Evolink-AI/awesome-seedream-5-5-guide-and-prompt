@@ -1606,4 +1606,4 @@ Gracias a los autores de la comunidad cuyas publicaciones públicas se citan en 
 
 Si un autor quiere cambiar o retirar la atribución, puede abrir un issue con el enlace de la publicación pública correspondiente.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)

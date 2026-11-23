@@ -1606,4 +1606,4 @@ Bu depoda herkese açık gönderileri alıntılanan topluluk yazarlarına teşek
 
 Bir yazar attribution bilgisinin değiştirilmesini veya kaldırılmasını isterse, ilgili herkese açık gönderi bağlantısıyla issue açabilir.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-pro-guide-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedream-5-5-guide-and-prompt&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedream-5-5-guide-and-prompt&Date)
